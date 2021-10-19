@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+h1,h2{
+    margin: 1% 1% 1% 1%;
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+body{
+    background-color: black;
+}
+img{
+    width: 20%;
+    height: 20%;
+
+}
+.content {
+    text-align: center;
+    background-color: #111;
+    margin: 5% 40% 5% 40%;
+    border-radius: 30pt;
+    color: white;
+    padding-top: 0.5%;
+    padding-bottom: 0.1%;
+}
+h1,h2{
+    font-family: Righteous;
+}
+h2{
+color: #fb6900;
+    font-size: 120%;
+}
+h1{
+    font-size: 160%;
+}
+a{
+    text-decoration: none;
+}
+.content:hover{
+    filter:grayscale(1);
+    background-color: #eee;
+    color: black;
+}
